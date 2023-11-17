@@ -43,3 +43,7 @@ You can access the project using Google Colab with this [link](https://colab.res
 
 ### Tech stack:
 - Python
+- data processing (NLP)
+- Tranditional and DNN ML models
+- Google Colab
+- ipynb
